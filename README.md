@@ -8,5 +8,3 @@ Welcome to my Github profile!
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/narek_hovhannisian/)](https://www.instagram.com/narek_hovhannisian/)
 
 <a href="http://www.github.com/narekhovhannisyan"><img src="https://github-readme-stats.vercel.app/api?username=narekhovhannisyan&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Narek's GitHub stats" /></a>
-
-[![Github Followers](https://img.shields.io/github/followers/narekhovhannisyan?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/narekhovhannisyan?tab=followers)
